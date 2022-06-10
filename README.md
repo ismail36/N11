@@ -2,7 +2,7 @@
 
 Used Java programming language, for automation Selenium, PicoContainer for Dependency injection, BDD Cucumber framework and Maven Cucumber HTML report, Page Object Model design pattern.
 
-##Installation
+## Installation
 
 Clone project to your local computer. Open the project with Intellij Idea and go to pom.xml file than reload All Maven Projects.
 
